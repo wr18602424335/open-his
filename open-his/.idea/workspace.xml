@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c203630-1463-4326-8a0b-d5d3360ea145" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="E:\java\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hS2mqTfGMGfcqyieK4Uzm9nNH2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/his-system/system-web/lib" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\java\project\open-his\his-system\system-web\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.HisCommonsApplication">
+    <configuration name="DoctorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="doctor-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aryun.DoctorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ErpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="erp-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aryun.ErpApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HisCommonsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="his-commons" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aryun.hiscommons.HisCommonsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatisticsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="statistics-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aryun.StatisticsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="system-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.aryun.SystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c203630-1463-4326-8a0b-d5d3360ea145" name="Default Changelist" comment="" />
+      <created>1599990334659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599990334659</updated>
+      <workItem from="1599990335972" duration="11318000" />
+      <workItem from="1600067469973" duration="1024000" />
+    </task>
+    <task id="LOCAL-00001" summary="的">
+      <created>1600068097381</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600068097382</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="的" />
+    <option name="LAST_COMMIT_MESSAGE" value="的" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="332" y="12" key="CommitChangelistDialog2" timestamp="1600068093418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="332" y="12" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600068093418" />
+    <state x="591" y="181" key="FileChooserDialogImpl" timestamp="1600054828453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="591" y="181" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600054828453" />
+    <state x="189" y="18" key="SettingsEditor" timestamp="1600068494847">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="189" y="18" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600068494847" />
+    <state x="302" y="102" key="new project wizard" timestamp="1600003248619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="302" y="102" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1600003248619" />
+  </component>
+</project>
